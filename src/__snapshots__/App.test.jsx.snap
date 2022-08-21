@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+Array [
+  <h1
+    className="pb-7 text-center text-3xl"
+  >
+    Hello 
+    Anonymous
+  </h1>,
+  <form
+    className="mx-auto flex w-48 flex-col items-center"
+    onSubmit={[Function]}
+  >
+    <div>
+      <label
+        className="sr-only"
+        htmlFor="name"
+      >
+        Name
+      </label>
+      <input
+        className="rounded border pl-2"
+        id="name"
+        name="formName"
+        placeholder="Enter your name"
+        type="text"
+      />
+    </div>
+    <button
+      className="mt-4 rounded bg-green-500 px-4 py-2 text-white"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>,
+  <div
+    className="flex"
+  >
+    <h2>
+      Display
+    </h2>
+    <button
+      className="mx-auto mt-4 flex  w-48 flex-col items-center "
+      type="button"
+    >
+      Rock
+    </button>
+  </div>,
+  <div
+    className="flex"
+  >
+    <h2>
+      Display
+    </h2>
+    <button
+      className="mx-auto mt-4 flex  w-48 flex-col items-center "
+      type="button"
+    >
+      Paper
+    </button>
+  </div>,
+  <div
+    className="flex"
+  >
+    <h2>
+      Display
+    </h2>
+    <button
+      className="mx-auto mt-4 flex  w-48 flex-col items-center "
+      type="button"
+    >
+      Scissors
+    </button>
+  </div>,
+]
+`;

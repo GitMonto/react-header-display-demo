@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<section
+  className="mx-auto flex w-48 flex-col items-center pt-11"
+>
+  <h1>
+    Photo of 
+    marko
+  </h1>
+  <img
+    alt="marko"
+    className="rounded-full"
+  />
+</section>
+`;

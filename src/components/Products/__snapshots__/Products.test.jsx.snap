@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<ul>
+  <li
+    className="mx-auto flex w-48 flex-col items-center pt-11"
+  >
+    Test 1
+     - 
+    $49.99
+  </li>
+  <li
+    className="mx-auto flex w-48 flex-col items-center pt-11"
+  >
+    Test 2
+     - 
+    $9.99
+  </li>
+  <li
+    className="mx-auto flex w-48 flex-col items-center pt-11"
+  >
+    Test 3
+     - 
+    $29.99
+  </li>
+</ul>
+`;
